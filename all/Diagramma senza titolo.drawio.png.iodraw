@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="200" y="20" width="440" height="140" as="geometry" />
+          <mxGeometry x="200" y="2" width="440" height="140" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#336600;fontColor=#333333;" edge="1" parent="1" source="5Be9ftWcRoD4rNOa_TSy-8" target="5Be9ftWcRoD4rNOa_TSy-4">
           <mxGeometry relative="1" as="geometry" />
@@ -14,25 +14,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-4" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Model Training&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;CNN &lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;vs&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt; Transformer&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="300" y="189" width="240" height="80" as="geometry" />
+          <mxGeometry x="300" y="171" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#336600;fontColor=#333333;" edge="1" parent="1" source="5Be9ftWcRoD4rNOa_TSy-5" target="5Be9ftWcRoD4rNOa_TSy-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;XAI Analysis&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;Grad-CAM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="300" y="300" width="240" height="80" as="geometry" />
+          <mxGeometry x="300" y="282" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&amp;nbsp;Hybrid CNN–Transformer Model&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="270" y="411" width="300" height="80" as="geometry" />
+          <mxGeometry x="270" y="393" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;INPUT DATA&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="210" y="18" width="130" height="40" as="geometry" />
+          <mxGeometry x="210" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Zeuli dataset&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;RGB images&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(2048 × 1536)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="240" y="53" width="170" height="90" as="geometry" />
+          <mxGeometry x="240" y="35" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;San Donaci dataset&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;RGB images&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(1280 × 720)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="440" y="53" width="170" height="90" as="geometry" />
+          <mxGeometry x="440" y="35" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
