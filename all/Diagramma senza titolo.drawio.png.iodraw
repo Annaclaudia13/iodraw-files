@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5Be9ftWcRoD4rNOa_TSy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#4D4D4D;" edge="1" parent="1" source="5Be9ftWcRoD4rNOa_TSy-8" target="5Be9ftWcRoD4rNOa_TSy-4">
+        <mxCell id="5Be9ftWcRoD4rNOa_TSy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#666666;" edge="1" parent="1" source="5Be9ftWcRoD4rNOa_TSy-8" target="5Be9ftWcRoD4rNOa_TSy-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -20,10 +20,16 @@
           <mxGeometry x="200" y="210" width="440" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;XAI Evaluations&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="313.5" width="200" height="100" as="geometry" />
+          <mxGeometry x="330" y="330" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Hybrid Model&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="440" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5Be9ftWcRoD4rNOa_TSy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="166" as="sourcePoint" />
+            <mxPoint x="430" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
