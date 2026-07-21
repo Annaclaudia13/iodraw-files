@@ -20,16 +20,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Model training&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;background-color: initial; font-size: 18px;&quot;&gt;CNN &lt;/font&gt;&lt;font style=&quot;background-color: initial; font-size: 16px;&quot;&gt;vs&lt;/font&gt;&lt;font style=&quot;background-color: initial; font-size: 18px;&quot;&gt; Transformer&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="380.5" y="64" width="200" height="80" as="geometry" />
+          <mxGeometry x="364.5" y="64" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#336600;strokeWidth=2;" edge="1" parent="1" source="5Be9ftWcRoD4rNOa_TSy-5" target="5Be9ftWcRoD4rNOa_TSy-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;XAI Analysis&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;Grad-CAM&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="636" y="64" width="200" height="80" as="geometry" />
+          <mxGeometry x="589" y="64" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&amp;nbsp;Hybrid CNN–Transformer Model&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="865" y="63.5" width="298" height="80" as="geometry" />
+          <mxGeometry x="864" y="63.5" width="298" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;INPUT DATA&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="7" y="32" width="130" height="40" as="geometry" />
