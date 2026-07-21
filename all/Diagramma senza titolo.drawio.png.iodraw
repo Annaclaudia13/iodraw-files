@@ -13,9 +13,6 @@
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Zeuli dataset&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;RGB images&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(2048 × 1536)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;fontColor=#333333;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="240" y="53" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5Be9ftWcRoD4rNOa_TSy-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;San Donaci dataset&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;RGB images&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(1280 × 720)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontColor=#333333;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="440" y="53" width="170" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#336600;fontColor=#333333;" edge="1" parent="1" source="5Be9ftWcRoD4rNOa_TSy-4" target="5Be9ftWcRoD4rNOa_TSy-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -33,6 +30,9 @@
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;INPUT DATA&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="210" y="18" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5Be9ftWcRoD4rNOa_TSy-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;San Donaci dataset&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;RGB images&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;(1280 × 720)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;fontColor=#333333;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="440" y="53" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
