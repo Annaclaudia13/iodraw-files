@@ -17,7 +17,7 @@
           <mxGeometry x="40" y="30" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-26" value="&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;Output Data&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Segmentation masks&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;opacity=70;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="600" y="30" width="240" height="80" as="geometry" />
+          <mxGeometry x="650" y="30" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#336600;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=22;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="5Be9ftWcRoD4rNOa_TSy-28" target="5Be9ftWcRoD4rNOa_TSy-32">
           <mxGeometry relative="1" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="303" y="270" width="295" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-37" value="&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;strong style=&quot;font-size: 22px;&quot; data-end=&quot;383&quot; data-start=&quot;361&quot;&gt;Hybrid Output Data&lt;/strong&gt;&lt;br style=&quot;font-size: 22px;&quot;&gt;Segmentation Masks&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;opacity=70;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="628" y="270" width="225" height="80" as="geometry" />
+          <mxGeometry x="628" y="270" width="252" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#336600;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=22;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="5Be9ftWcRoD4rNOa_TSy-26" target="5Be9ftWcRoD4rNOa_TSy-28">
           <mxGeometry relative="1" as="geometry">
