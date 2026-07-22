@@ -13,9 +13,6 @@
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-23" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Input Data&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;RGB Images&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5Be9ftWcRoD4rNOa_TSy-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Be9ftWcRoD4rNOa_TSy-26" target="5Be9ftWcRoD4rNOa_TSy-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-26" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Output Data&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Segmentation masks&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="420" y="278" width="240" height="80" as="geometry" />
         </mxCell>
@@ -25,11 +22,10 @@
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Be9ftWcRoD4rNOa_TSy-32" target="5Be9ftWcRoD4rNOa_TSy-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5Be9ftWcRoD4rNOa_TSy-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Be9ftWcRoD4rNOa_TSy-32" target="5Be9ftWcRoD4rNOa_TSy-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5Be9ftWcRoD4rNOa_TSy-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Be9ftWcRoD4rNOa_TSy-32" target="5Be9ftWcRoD4rNOa_TSy-37">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5Be9ftWcRoD4rNOa_TSy-44" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5Be9ftWcRoD4rNOa_TSy-38">
+          <mxGeometry x="0.551" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-32" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;XAI-Guided Hybrid Model&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CNN-Transformer Fusion&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="420" y="498" width="240" height="80" as="geometry" />
