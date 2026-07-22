@@ -45,7 +45,7 @@
             <mxPoint x="240" y="558" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Be9ftWcRoD4rNOa_TSy-37" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;XAI-Guided Hybrid Architecture&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;opacity=70;" vertex="1" parent="1">
+        <mxCell id="5Be9ftWcRoD4rNOa_TSy-37" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Hybrid Segmentation Results&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="90" y="589" width="300" height="80" as="geometry" />
         </mxCell>
       </root>
