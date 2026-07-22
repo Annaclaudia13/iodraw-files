@@ -40,6 +40,14 @@
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-35" value="Hybrid Segmentation Results" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="300" width="190" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5Be9ftWcRoD4rNOa_TSy-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#336600;fontColor=#333333;" edge="1" parent="1" target="5Be9ftWcRoD4rNOa_TSy-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="558" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Be9ftWcRoD4rNOa_TSy-37" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;XAI-Guided Hybrid Architecture&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="90" y="589" width="300" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
