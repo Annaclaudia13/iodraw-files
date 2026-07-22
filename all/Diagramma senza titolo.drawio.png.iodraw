@@ -31,12 +31,20 @@
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-23" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Input Data&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;RGB Images&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="120" y="40" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5Be9ftWcRoD4rNOa_TSy-26" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Output Data&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;opacity=70;" vertex="1" parent="1">
+        <mxCell id="5Be9ftWcRoD4rNOa_TSy-26" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Output Data&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Segmentation masks&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="120" y="258" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#336600;" edge="1" parent="1" target="5Be9ftWcRoD4rNOa_TSy-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="229" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Be9ftWcRoD4rNOa_TSy-28" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Model Training&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;CNN &lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;vs&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt; Transformer&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="140" y="169" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5Be9ftWcRoD4rNOa_TSy-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#336600;" edge="1" parent="1" target="5Be9ftWcRoD4rNOa_TSy-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="140" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
