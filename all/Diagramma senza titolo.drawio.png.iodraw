@@ -32,7 +32,7 @@
           <mxGeometry x="370" y="280" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-37" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;strong data-end=&quot;383&quot; data-start=&quot;361&quot;&gt;Hybrid Output Data&lt;/strong&gt;&lt;br&gt;Segmentation Masks&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#333333;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="90" y="280" width="240" height="80" as="geometry" />
+          <mxGeometry x="80" y="280" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5Be9ftWcRoD4rNOa_TSy-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.454;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5Be9ftWcRoD4rNOa_TSy-26" target="5Be9ftWcRoD4rNOa_TSy-28">
           <mxGeometry relative="1" as="geometry">
