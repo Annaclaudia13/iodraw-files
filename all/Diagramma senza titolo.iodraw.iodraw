@@ -31,8 +31,8 @@
         <mxCell id="5y4I_Ig5EMA7VWlmxBBy-8" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 23px;&quot;&gt;Extraction of Subsequences&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="408" y="250" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5y4I_Ig5EMA7VWlmxBBy-14" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;Customized Transformer-Based Model&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6C8EBF;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="215" y="390" width="385" height="80" as="geometry" />
+        <mxCell id="5y4I_Ig5EMA7VWlmxBBy-14" value="&lt;font size=&quot;1&quot; color=&quot;#333333&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 21px;&quot;&gt;Customized Transformer-Based Model&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6C8EBF;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="400" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
