@@ -13,7 +13,7 @@
         <mxCell id="5y4I_Ig5EMA7VWlmxBBy-2" value="&lt;font color=&quot;#333333&quot; style=&quot;font-size: 23px;&quot;&gt;Four Public Datasets&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="214" y="140" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5y4I_Ig5EMA7VWlmxBBy-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5y4I_Ig5EMA7VWlmxBBy-6" target="5y4I_Ig5EMA7VWlmxBBy-8">
+        <mxCell id="5y4I_Ig5EMA7VWlmxBBy-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#333333;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="5y4I_Ig5EMA7VWlmxBBy-6" target="5y4I_Ig5EMA7VWlmxBBy-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5y4I_Ig5EMA7VWlmxBBy-6" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;Body Landmark Extraction&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
